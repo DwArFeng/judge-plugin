@@ -23,7 +23,7 @@
         <!-- 进行版本声明 -->
         <!-- 集中定义依赖版本号 -->
         <junit.version>4.12</junit.version>
-        <spring.version>5.2.3.RELEASE</spring.version>
+        <spring.version>5.3.14</spring.version>
         <log4j2.version>2.12.1</log4j2.version>
         <slf4j.version>1.7.5</slf4j.version>
         <subgrade.version>beta-0.3.2.b</subgrade.version>
